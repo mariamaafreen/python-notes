@@ -1,0 +1,24 @@
+how to use methods in python
+
+read a json file in python
+
+explore more into python list
+
+print current directory in python
+
+print current date in python
+
+iterate the list
+
+do fibonacci in python
+
+explore lamda in python
+
+sort a list 
+
+generate random number in python
+
+split the string in python
+
+get the user name input in python
+
