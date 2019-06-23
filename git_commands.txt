@@ -1,0 +1,13 @@
+#
+cloning
+git clone pythonnotes
+
+
+#
+add all unchnaged commits
+git add .
+
+
+#
+commit
+git commit -m " hello "
